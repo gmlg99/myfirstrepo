@@ -1,3 +1,4 @@
 # myfirstrepo
-## subheader
-my first repo
+My first repository
+---
+Grecia Lopez
